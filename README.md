@@ -6,5 +6,6 @@ Project:  Analyse de  l 'empreinte carbone d 'un Client Azure
 
 | Rank | Language |
 |-----:|---------------|
-|     1|Python         |
-|     2|  SQL          |
+|     1|Jupyter NoteBook        |
+|     2|Python         |
+|     3|  SQL          |
