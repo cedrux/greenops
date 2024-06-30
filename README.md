@@ -1,2 +1,2 @@
-# greenops
-Project:  Analyse de  l 'empreinte carbone pour d 'un Client Azure
+# greenops ☘️
+Project:  Analyse de  l 'empreinte carbone d 'un Client Azure
