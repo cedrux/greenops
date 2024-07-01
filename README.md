@@ -1,4 +1,4 @@
-# Projet GreenOPs: Calculateur d'Empreinte Carbone Azure ☘️
+# Projet GreenOps: Calculateur d'Empreinte Carbone Azure ☘️
 
 Bienvenue sur notre projet ! Nous avons travaillé à partir d'un ticket de caisse sur la consommation des ressources d'un client Azure pour calculer une estimation de l'empreinte carbone de ses ressources utilisées dans le Cloud.
 
